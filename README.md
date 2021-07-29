@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darknite008
-- 👀 I’m interested in ... data visulization
+- 👀 I’m interested in ... data visualization
 - 🌱 I’m currently learning ... laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
